@@ -1,0 +1,21 @@
+body{
+    background-color: grey;
+}
+#hello{
+    position: relative;
+    left: 43%;
+    margin-top: 18%;
+}
+.bye{
+    border-radius: 20px;
+    background-color:skyblue;
+    color: black;
+    padding: 2px;
+    text-decoration: none;
+    cursor: pointer;
+    font-weight: bolder;
+    
+}
+.bye a {
+    text-decoration: none;
+}
